@@ -15,10 +15,11 @@ A real-time computer vision project that performs face recognition, gender detec
 - Excel (via pandas) for logging
 - Haar Cascade for face detection fallback
 
-	🗂️ Project Structure
-	project-root/
+🗂️ Project Structure
+
+ 	project-root/
  	├── camera.py         # Capture new face images
-	├── capture.py        # Generate embeddings and store them
+  	├── capture.py        # Generate embeddings and store them
  	├── main.py           # Real-time recognition and demographic predictions
 	├── embeddings/
  	│   └── data.pkl      # Face embeddings database
