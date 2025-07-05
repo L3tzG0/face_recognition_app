@@ -50,6 +50,7 @@ Run the main system:
 - Ensure model files and data paths are correctly placed
 - Uses webcam (can be swapped for pre-recorded footage)
 - Requires at least one identity with embeddings to function properly
+- Project was made using python 3.10.11
 
 👥 Credits
 This project was developed collaboratively by a team of four students.
