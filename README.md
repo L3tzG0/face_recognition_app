@@ -1,6 +1,6 @@
 # face_recognition_app
 
-👁️‍🗨️ Face Recognition & Demographics Analysis System
+👁️‍🗨️ Face Recognition System
 A real-time computer vision project that performs face recognition, gender detection, and age prediction, complete with attendance logging using OpenCV, Keras, and FaceNet.
 
 🚀 Features
