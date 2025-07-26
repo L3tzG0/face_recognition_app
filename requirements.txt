@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pandas
+tensorflow
+keras
+keras-facenet
+mediapipe
+Pillow
